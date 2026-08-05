@@ -3,5 +3,6 @@ public class App {
 		system.out.println("good poorna");
 		system.out.println("hi everone");
 		system.out.println("new one add");
+		system.out.println(all is ok):
 	}
 }	
