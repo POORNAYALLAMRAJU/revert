@@ -4,6 +4,6 @@ public class app {
 		System.out.println("hi everone");
 		System.out.println("new one add");
 		System.out.println("hi devops");
-        System.out.prinln("hello everon");
+        System.out.println("hello everon");
 	}
 }	
